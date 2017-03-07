@@ -1,6 +1,8 @@
 TransliteratorHelper for Yii 2
 ==============================
 
+Extended from https://github.com/2amigos/yii2-transliterator-helper
+
 TransliteratorHelper transliterates UTF-8 encoded text to US-ASCII. 
 
 Installation
