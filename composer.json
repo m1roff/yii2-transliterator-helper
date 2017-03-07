@@ -1,0 +1,24 @@
+{
+  "name": "mirkhamidov/yii2-transliterator-helper",
+  "description": "Transliterator Helper for Yii2.",
+  "keywords": ["extension", "Helper", "transliterator", "yii"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jasur Mirkhamidov",
+      "email": "mirkhamidov.jasur@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.6",
+    "2amigos/yii2-transliterator-helper": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "mirkhamidov\\transliterator\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
